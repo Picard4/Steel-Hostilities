@@ -40,7 +40,7 @@ Upon the conclusion of a round, players will either advance to the next opponent
 26. The player and opponent’s health bars shall change colour when they are low on health.
 27. The player's super meter shall change colour upon being filled completely.
 
-### 🤖 State Diagrams
+## 🤖 State Diagrams
 
 ![Game State Diagram](./images/GameStateDiagram.png)
 
@@ -48,11 +48,11 @@ Upon the conclusion of a round, players will either advance to the next opponent
 
 ![Opponent State Diagram](./images/OpponentStateDiagram.png)
 
-### 🗺️ Class Diagram
+## 🗺️ Class Diagram
 
 ![Class Diagram](./images/ClassDiagram.png)
 
-### 🧵 Wireframes
+## 🧵 Wireframes
 
 ![Wireframe TitleScreen](./images/WireFrameTitleScreen.png)
 
@@ -63,17 +63,17 @@ Upon the conclusion of a round, players will either advance to the next opponent
 
 ![Wireframe HighScore](./images/WireframeHighScore.png)
 
-### 🎨 Assets
+## 🎨 Assets
 
 Our game will be primarily based off of the [Punch-Out!!](https://en.wikipedia.org/wiki/Punch-Out!!) series, with some light influence being taken from other franchises in the fighting genre such as [The King of Fighters](https://en.wikipedia.org/wiki/The_King_of_Fighters), [Fatal Fury](https://en.wikipedia.org/wiki/Fatal_Fury), [BlazBlue](https://en.wikipedia.org/wiki/BlazBlue), and [Under Night In-Birth](https://en.wikipedia.org/wiki/Under_Night_In-Birth).
 
 The world and GUI of our game will have a medieval theme to differentiate it from the source material, which will be inspired by the [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls) games.
 
-#### 🖼️ Sprites & Images
+## 🖼️ Sprites & Images
 
 Sprites are planned to mostly be custom made by us, the dev team. Other resources may be used for some images or basic sprites, likely from [itch.io](https://itch.io/game-assets) and [opengameart.org](https://opengameart.org/). 
 
-#### ✏️ Fonts
+## ✏️ Fonts
 
 For a basic font we will use Comic Sans, as it is a commonly used font that we are rather fond of. To better fit with the medieval theme of the game, we plan to use Quill Sword for labels and Swordsman for the title screen. The Among Us font may also be used for some potential gag features.
 - [Comic Sans](https://www.myfonts.com/fonts/ascender/comic-sans/)
@@ -81,7 +81,7 @@ For a basic font we will use Comic Sans, as it is a commonly used font that we a
 - [Swordsman](https://www.dafont.com/swordsman.font)
 - [Among Us](https://www.dafont.com/among-us.font)
 
-#### 🔊 Sounds
+## 🔊 Sounds
 Music will be imported from the internet. We don’t know exactly which songs will be in our game, but we’re hoping to use [this piece](https://freesound.org/people/PureDesignGirl/sounds/538828/) for a combat section of the game. We plan to include music for the title screen, fights, and the game over + high score screens.
 
 Sound effects will be imported from sources such as [freesound.org](https://freesound.org/), and/or made through [Bfxr](https://www.bfxr.net/). We will include sounds for events such as (but not limited to):
@@ -95,8 +95,20 @@ Sound effects will be imported from sources such as [freesound.org](https://free
 - The player gaining a full super meter
 - Time running out
 
-### 📚 References
+## 📚 References
 - [The Fighting Game Glossary](https://glossary.infil.net/)
 - [app.diagrams.net](https://app.diagrams.net/) 
-- [Lucidchart](https://www.lucidchart.com/pages/) 
+- [Lucidchart](https://www.lucidchart.com/pages/)
 
+## 👟 Run Guide
+1. Copy this repository's contents to your local device by cloning the repo or downloading and extracting a zip file.
+2. Open Visual Studio Code, select `File > Open Folder`, and choose the directory called `Steel-Hostilities`.
+3. If you do not have [NodeJS](https://nodejs.org/en/), install it before proceeding.
+4. Open a terminal and run `npx http-server`.
+5. Start the game by navigating to one of the links provided by the terminal.
+6. Deactivate any adblocker you may have while running Steel Hostilities to ensure the best possible results.
+
+## 🥊 Credits
+- Project Manager and Engine Developer: [Vikram Singh](https://github.com/VikramSinghMTL)
+- Character Designer: [Ryan Bujold](https://github.com/RyanBujold)
+- Programmers: [Palmarino DiMarco](https://github.com/Picard4) and [Ryan Bujold](https://github.com/RyanBujold)
