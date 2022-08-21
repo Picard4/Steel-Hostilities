@@ -1,0 +1,186 @@
+{
+	"images": [
+		{
+			"name": "PlayerSprites",
+			"path": "./assets/images/playerSpritesheet.png",
+			"width": 1500,
+			"height": 1200
+		},
+		{
+			"name": "RatKingSprites",
+			"path": "./assets/images/ratKingSpritesheet.png",
+			"width": 3000,
+			"height": 1100
+		},
+		{
+			"name": "SkeletonSprites",
+			"path": "./assets/images/skeletonSpritesheet.png",
+			"width": 3000,
+			"height": 1100
+		},
+		{
+			"name": "RatKingStage",
+			"path": "./assets/images/medievalHallwayImageOne.png",
+			"width": 1280,
+			"height": 720
+		},
+		{
+			"name": "SkeletonStage",
+			"path": "./assets/images/medievalHallwayImageTwo.png",
+			"width": 1280,
+			"height": 720
+		},
+		{
+			"name": "MoonBackground",
+			"path": "./assets/images/moonBackground.png",
+			"width": 1920,
+			"height": 1080
+		},
+		{
+			"name": "ForestBackground",
+			"path": "./assets/images/forestBackground.jpg",
+			"width": 640,
+			"height": 320
+		},
+		{
+			"name": "BigChungusSprites",
+			"path": "./assets/images/chungusSpritesheet.png",
+			"width": 3000,
+			"height": 2200
+		},
+		{
+			"name": "BigChungusStage",
+			"path": "./assets/images/medievalHallwayImageThree.jpg",
+			"width": 1280,
+			"height": 720
+		}
+	],
+	"fonts": [
+		{
+			"name": "ComicSansMS",
+			"path": "./assets/fonts/comic-sans-ms/design.graffiti.comicsansms.ttf"
+		},
+		{
+			"name": "ComicSansMSGras",
+			"path": "./assets/fonts/comic-sans-ms/design.graffiti.comicsansmsgras.ttf"
+		},
+		{
+			"name": "Swordsman",
+			"path": "./assets/fonts/Swordsman.ttf"
+		},
+		{
+			"name": "QuillSword",
+			"path": "./assets/fonts/quill_sword/quillsword.ttf"
+		},
+		{
+			"name": "QuillSwordLight",
+			"path": "./assets/fonts/quill_sword/quillswordlight.ttf"
+		},
+		{
+			"name": "AmongUs",
+			"path": "./assets/fonts/AmongUs-Regular.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "menuTheme",
+			"path": "./assets/sounds/music/menuTheme.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "battleTheme",
+			"path": "./assets/sounds/music/battleTheme.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "victoryTheme",
+			"path": "./assets/sounds/music/victoryTheme.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "gameOverTheme",
+			"path": "./assets/sounds/music/gameOverTheme.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "punchHitSound",
+			"path": "./assets/sounds/effects/punchHit.wav",
+			"size": 4,
+			"volume": 0.45
+		},
+		{
+			"name": "swordHitSound",
+			"path": "./assets/sounds/effects/swordHit.wav",
+			"size": 4,
+			"volume": 0.2
+		},
+		{
+			"name": "superHitSound",
+			"path": "./assets/sounds/effects/superHit.wav",
+			"size": 2,
+			"volume": 0.2
+		},
+		{
+			"name": "blockedHitSound",
+			"path": "./assets/sounds/effects/blockedHit.wav",
+			"size": 4,
+			"volume": 0.3
+		},
+		{
+			"name": "playerDamagedSound",
+			"path": "./assets/sounds/effects/playerDamaged.wav",
+			"size": 2,
+			"volume": 0.2
+		},
+		{
+			"name": "knockoutSound",
+			"path": "./assets/sounds/effects/knockout.wav",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "menuSelectSound",
+			"path": "./assets/sounds/effects/menuSelect.wav",
+			"size": 3,
+			"volume": 0.1
+		},
+		{
+			"name": "menuShiftSound",
+			"path": "./assets/sounds/effects/menuShift.wav",
+			"size": 3,
+			"volume": 0.1
+		},
+		{
+			"name": "timeOverSound",
+			"path": "./assets/sounds/effects/timeOver.wav",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "superActivatedSound",
+			"path": "./assets/sounds/effects/superActivated.wav",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "rushModeStartedSound",
+			"path": "./assets/sounds/effects/rushModeStarted.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "rushModeEndedSound",
+			"path": "./assets/sounds/effects/rushModeEnded.wav",
+			"size": 1,
+			"volume": 0.1
+		}
+	]
+}
